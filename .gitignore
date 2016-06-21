@@ -44,6 +44,8 @@ hs_err_pid*
 ## Plugin-specific files:
 
 # IntelliJ
+*.iml
+.idea
 /out/
 
 # mpeltonen/sbt-idea plugin
@@ -67,4 +69,3 @@ release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
-
